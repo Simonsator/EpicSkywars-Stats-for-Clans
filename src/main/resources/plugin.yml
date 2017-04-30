@@ -1,0 +1,6 @@
+name: EpicSkyWars-Stats-for-Clans
+version: ${project.version}
+author: Simonsator
+depends: [Clans]
+main: de.simonsator.partyandfriends.clans.stats.epicskywars.MSWStatsMain
+description: Provides stats for clans for EpicSkywars
